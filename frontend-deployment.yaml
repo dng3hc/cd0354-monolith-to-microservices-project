@@ -15,7 +15,7 @@ spec:
         app: frontend
     spec:
       containers:
-      - image: dng3hc/udagram-frontend:v2
+      - image: dng3hc/udagram-frontend:v4
         name: frontend
         imagePullPolicy: Always
         ports:
